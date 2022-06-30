@@ -93,6 +93,7 @@ ul {
 	color: #fb565a;
 	transition: .1s;
 }
+
 .nav__item:not(:last-child) {
 	margin-right: 45px;
 }
