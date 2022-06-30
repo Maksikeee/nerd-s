@@ -91,7 +91,7 @@ ul {
 
 .nav__items a:hover{
 	color: #fb565a;
-	transition: .1s;
+	transition: .2s;
 }
 
 .nav__item:not(:last-child) {
